@@ -1,0 +1,19 @@
+.navbar{
+    
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link a{
+    padding: 30px;
+    text-decoration: none;
+}
+.contact{
+    height: 35px;
+    width: 120px;
+    color: white;
+    background: #D2153D;
+    border: none;
+    border-radius: 30px;
+}

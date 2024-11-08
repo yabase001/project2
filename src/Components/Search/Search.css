@@ -1,0 +1,46 @@
+.church{
+    height: 530px;
+    width: 1330px;
+    object-fit: fill;
+    position: absolute;
+    z-index: -1;
+}
+h1{
+    position: relative;
+    top: 70px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+   
+}
+h6{
+    position: relative;
+    top: 60px;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.search{
+    height: 120px;
+    width: 1124px;
+    position: relative;
+    top: 100px;
+    left: 135px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.input{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    height: 35px;
+    width: 250px;
+}
+.btn{
+    background: #D2153D;
+    width: 250px;
+    border: none;
+    color: white;
+}
