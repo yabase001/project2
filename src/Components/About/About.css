@@ -21,3 +21,8 @@ h2{
 h5{
     font-family: "Kanit", sans-serif;
 }
+.right{
+    position: relative;
+    top: 2px;
+    right: -2px;
+}

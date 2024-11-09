@@ -4,10 +4,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
+}
+.icon{
+    padding-left: 40px;
 }
 .link a{
     padding: 30px;
-    text-decoration: none;
+    text-decoration: none;   
+}
+.dd{
+ position: relative;
+ top: 3px;
+ right: -3px;  
 }
 .contact{
     height: 35px;

@@ -39,10 +39,10 @@ const App = () => {
      </div>
      <div  >
      <div style={{display:"grid", gridTemplateColumns:"repeat(3,1fr",rowGap:"10px", marginLeft:'250px',marginRight:'100px' }}>
-     <Upcomeing img={hand1} title='St. Luke United Methodist Church' con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
+     <Upcomeing img={hand1} title='St. Luke United Church' con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
      <Upcomeing img={black2} title='St. Frnacis Basilica' con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
      <Upcomeing img={jesus3} title='Community Alliance Church'con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
-     <Upcomeing img={h4} title='St. Luke United Methodist Church'con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
+     <Upcomeing img={h4} title='St. Luke United Church'con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
      <Upcomeing img={h5} title='St. Frnacis Basilica'con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
      <Upcomeing img={h6} title='Community Alliance Church'con='This unique weekend getaway is for 3rd-5th graders and gives them the opportunity to..' date='20 Nov 2020'/>
      </div>
